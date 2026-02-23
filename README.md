@@ -1,16 +1,63 @@
-## Hi there 👋
+<h1 align="center">Hola! Soy Agustina</h1>
 
-<!--
-**AgustinaMJuarez/AgustinaMJuarez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Estudiante de Ingeniería en Informática · FIUBA <br>
+Ayudante de Cátedra en Fundamentos de Programación
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Perfil
+
+Soy estudiante de primer año en Ingeniería en Informática (FIUBA) y actualmente ayudante de cátedra en Fundamentos de Programación.
+
+En este perfil comparto proyectos académicos, trabajos en equipo y desarrollos personales mientras avanzo en la carrera.  
+
+---
+
+## Tecnologías & Herramientas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,postgres,docker,c,python,sass,nodejs,nginx,git" />
+</p>
+
+---
+
+## Proyectos
+
+### F1 RaceHub
+
+Aplicación full stack desarrollada en la materia Introducción al Desarrollo de Software.
+
+- Desarrollo frontend y backend 
+- Trabajo en equipo 
+- Organización de arquitectura básica 
+- Integración con base de datos
+ 
+→ https://github.com/AgustinaMJuarez/F1-RaceHub
+
+---
+
+### Corima Tours
+
+Proyecto web desarrollado en 2022 como trabajo final de un curso de Desarrollo Web.
+
+- HTML & CSS
+- Maquetado y estructura visual
+- Primer proyecto publicado
+
+→ https://github.com/AgustinaMJuarez/Corima-Tours
+
+---
+
+## Contacto
+
+<p>
+  <a href="https://www.linkedin.com/in/agustina-juarez-b11a49332">
+    <img src="https://img.shields.io/badge/LinkedIn-Agustina_Juárez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinaMJuarez&theme=default&hide_border=true"/>
+</p>
