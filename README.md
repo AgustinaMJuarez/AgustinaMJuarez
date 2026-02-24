@@ -9,8 +9,6 @@ Ayudante de Cátedra en Fundamentos de Programación
 
 ## Perfil
 
-Soy estudiante de primer año en Ingeniería en Informática (FIUBA) y actualmente ayudante de cátedra en Fundamentos de Programación.
-
 En este perfil comparto proyectos académicos, trabajos en equipo y desarrollos personales mientras avanzo en la carrera.  
 
 ---
