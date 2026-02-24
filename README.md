@@ -54,7 +54,7 @@ Proyecto web desarrollado en 2022 como trabajo final de un curso de Desarrollo W
 
 <p>
   <a href="https://www.linkedin.com/in/agustina-juarez-b11a49332">
-    <img src="https://img.shields.io/badge/LinkedIn-Agustina_Juárez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Agustina_Juarez-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 
