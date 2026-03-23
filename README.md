@@ -2,7 +2,7 @@
 
 <p align="center">
 Estudiante de Ingeniería en Informática · FIUBA <br>
-Ayudante de Cátedra en Fundamentos de Programación
+Ayudante de Cátedra en Fundamentos de la Programación
 </p>
 
 ---
@@ -16,7 +16,7 @@ En este perfil comparto proyectos académicos, trabajos en equipo y desarrollos 
 ## Tecnologías & Herramientas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,postgres,docker,c,python,sass,nodejs,nginx,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,postgres,docker,c,python,sass,nodejs,nginx,git,go" />
 </p>
 
 ---
@@ -56,6 +56,3 @@ Proyecto web desarrollado en 2022 como trabajo final de un curso de Desarrollo W
   </a>
 </p>
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AgustinaMJuarez&theme=default&hide_border=true"/>
-</p>
