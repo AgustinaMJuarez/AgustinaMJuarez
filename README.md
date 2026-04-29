@@ -2,7 +2,7 @@
 
 <p align="center">
 Estudiante de Ingeniería en Informática · FIUBA <br>
-Ayudante de Cátedra en Fundamentos de la Programación
+Ayudante Ad-Honorem en Fundamentos de la Programación
 </p>
 
 ---
